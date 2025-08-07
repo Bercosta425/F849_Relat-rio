@@ -1,12 +1,12 @@
 # F849_Relatorio
 Projeto de graduação (Unicamp) para a construção de uma impressora 3D de Modelagem por Deposição Fundida (FDM) com design de movimentação CoreXY.
-➡️ **[Link para o PDF do Relatório](./Relatório___Impressora_3D.pdf)**
+➡️ **[Link para o PDF do Relatório](./F849_Relatorio_Relatório___Impressora_3D.pdf at main · Bercosta425_F849_Relatorio)**
 
 # Construção de Impressora 3D FDM com Movimentação CoreXY
 
 Este repositório contém o relatório final e a documentação do projeto de construção de uma impressora 3D, realizado como requisito para a disciplina de **`[Nome da Disciplina]`** do curso de **`[Seu Curso]`** na Universidade Estadual de Campinas (Unicamp).
 
-➡️ **[Link para o PDF do Relatório](./Relatório___Impressora_3D.pdf)**
+➡️ **[Link para o PDF do Relatório](./F849_Relatorio_Relatório___Impressora_3D.pdf at main · Bercosta425_F849_Relatoriof)**
 
 ## Contexto e Motivação
 
